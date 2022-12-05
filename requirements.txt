@@ -1,0 +1,4 @@
+aiohttp
+Flask[async]
+os
+dotenv
